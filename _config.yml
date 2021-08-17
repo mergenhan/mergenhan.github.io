@@ -1,4 +1,1 @@
-name: Murat Arslan
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-leaf
