@@ -1,5 +1,5 @@
 ## Cloud Security 101
-- [Mutasyonlar](https://google.com)
+- [Test](https://google.com)
 - [Intro](https://mergenhan.github.io/intro.html)
 
 ## Contact Me
