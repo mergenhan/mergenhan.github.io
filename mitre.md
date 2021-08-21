@@ -6,7 +6,7 @@ Firstly cyber kill chain and attack life cycle was developed but these structure
 
 As you can see below MITRE ATT&CK has 2 phase. PRE-ATT&CK framework which covers tactics and techniques pre-compromise what attackers before exploiting target network. But the Enterprise ATT&CK framework has 11 tactics.
 
-
+![Image](./images/mitre/1*sUAprgJeaFkNqb7KRkrkCg.png)
 
 To compare with cyber kill chain, PRE-ATT&CK mostly collate with the first three phases of the kill chain: reconnaissance, weaponization, and delivery. ATT&CK Enterprise collate well with the final four phases of the kill chain: exploitation, installation, command & control, and actions on objectives.
 
@@ -14,9 +14,11 @@ The aim of the ATT&CK framework is to improve post-compromise detection of adver
 
 Tactics are the what attackers are trying to achieve whereas the individual techniques are the how they accomplish those steps or goals. When looking at ATT&CK in the form of a matrix, the column titles across the top are tactics and are essentially categories of techniques.
 
-piic
+![Image](./images/mitre/1*8W-k3_i2Zpf7axgwGnWG_qw.png)
 
 A technique is a specific behavior to achieve aim and is often a single step in a string of activities employed to complete the attacker’s overall mission. ATT&CK provides many details about each technique including a description, examples, references, and suggestions for mitigation and detection.
+
+![Image](./images/mitre/1*JZejugsXMotgSoRhcNq2VQ.png)
 
 As a summary, we can mentioned ATT&CK in this way. In future post will be explained in more detail later.
 
