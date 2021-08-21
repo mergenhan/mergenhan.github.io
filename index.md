@@ -1,6 +1,6 @@
 ## Cloud Security 101
-- [Test](https://google.com)
-- [Intro](https://mergenhan.github.io/intro.html)
+- [Cyber Attack Modelling - Cyber Kill Chain](https://mergenhan.github.io/cyber-kill-chain.html)
+- [MITRE ATT&CK Model](https://mergenhan.github.io/mitre.html)
 
 ## Contact Me
 
