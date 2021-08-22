@@ -10,8 +10,6 @@ In fact “Kill Chain” is a military term used to describe the phases of an at
 Regardless, it has become an almost standard framework which others have altered or extended in different ways. Some people love it and some do not. So even if people criticize it, generally cyber kill chain identifies the steps of an attack from reconnaissance to controlling the systems with malware.
 https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 
-![Image](./images/ckc/1*P9DJ-1IJP1lIOhRfQONIBA.png)
-
 Every chain depends on the other. So if one chain fails, all kill chain will be unsuccessful. 
 
 #### **Chain is no stronger than its weakest link**
