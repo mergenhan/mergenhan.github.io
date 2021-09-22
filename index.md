@@ -1,6 +1,8 @@
 
 
 ## Cloud Security 101
+- [Quick Introduction to Cloud](https://mergenhan.github.io/c1.html)
+
 
 ## Cyber Attack Modelling
 - [Cyber Attack Modelling - Cyber Kill Chain](https://mergenhan.github.io/cyber-kill-chain.html)
