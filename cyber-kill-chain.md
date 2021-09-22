@@ -99,3 +99,5 @@ In order to keep yourself protected, critical information should not be kept unp
 - https://medium.com/@winstark_212/cyber-kill-chain-and-mitre-att-ck-c67ab9c59646
 
 - https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/Gaining_the_Advantage_Cyber_Kill_Chain.pdf
+
+[Go to Dashboard](https://mergenhan.github.io/index.html)
