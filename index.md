@@ -1,4 +1,4 @@
-# Lessons Learned From My Life
+# Lessons Learned From My Researches
 
 ## Product Management
 - Internal Product Management
