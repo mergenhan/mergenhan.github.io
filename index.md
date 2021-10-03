@@ -3,6 +3,7 @@
 ## Cloud Security 101
 - [Quick Introduction to Cloud](https://mergenhan.github.io/c1.html)
 - [Quick Introduction to Cloud Security](https://mergenhan.github.io/c2.html)
+- [Vulnerabilities in the Cloud](https://mergenhan.github.io/c3.html)
 
 
 ## Cyber Attack Modelling
