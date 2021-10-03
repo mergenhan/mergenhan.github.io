@@ -1,4 +1,4 @@
-# Murat Arslan Blog Page
+# Lessons Learned From My Life
 
 ## Product Management
 - Internal Product Management
