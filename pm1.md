@@ -45,4 +45,4 @@ What makes a product a product is that customers can use it. So, what is importa
 > If you have teams targeting the same goals, you can create desired products together with understanding, patience, and effort 
 
 ## References
-- [Uber's Article] (https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/) 
+- [Uber's Article](https://eng.uber.com/it-engineering-meet-the-team-that-keeps-uber-moving/) 
