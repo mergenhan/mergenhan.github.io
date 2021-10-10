@@ -2,4 +2,3 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme 
 title: Murat's Blog Page
-description: [I have been interested in cyber security for 6 year. I have been working as a technical product manager more than 1 year. I am interested in product lifecycle, secure coding, chaos engineering, AWS & Azure security, infrastructure as code. Fell free to contact me :)]
